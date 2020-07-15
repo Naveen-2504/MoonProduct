@@ -1,0 +1,190 @@
+.image{
+	position: absolute;
+	top: 200px;
+	left: 550px;
+}
+.Gm{
+	position: absolute;
+	left:1000px;
+	top: 15px;
+}
+.Im{
+	position: absolute;
+	left: 1060px;
+	top: 15px;
+}
+.by{
+	position: absolute;
+	left: 1110px;
+	top: 28px;
+}
+.search{
+	position: absolute;
+	top:250px;
+	left: 350px;
+}
+input[type=text]{
+ 	width: 600px;
+ 	box-sizing: border-box;
+ 	padding: 10px 5px;
+ 	outline: none;
+ 	border:1px solid black;
+ 	border-radius: 70px;
+ 	margin: 1px;
+ 	font-weight: hold;
+ 	font-size:medium
+ }
+
+.button{
+	position: absolute;
+	top:300px;
+	left: 500px;
+}
+.but1{
+ 	position: absolute;
+ 	top:300px;
+ 	left: 690px;
+ }
+
+input[type=button]{
+ 		width: 100%;
+ 		box-sizing: border-box;
+ 		padding: 15px 20px;
+ 		margin-top: 30px;
+ 		outline:none; 
+ 		border:none;
+ 		font-size: 15px;
+ }
+ input[type=submit]{
+ 	width: 150%;
+ 	padding: 10px;
+ 	box-sizing: border-box;
+ 	margin-top: 20px;
+ 	border:none;
+ 	background-color: blue;
+ 	font-size: 15px;
+ 	border-radius: 5px;
+ 	color: white;
+ }
+ .Sig{
+ 	position: absolute;
+ 	left:1150px;
+ 	top: 1px;
+
+
+ }
+ a:link{
+ 	text-decoration: none;
+ 	color: black;
+ }
+ a:hover{
+ 	text-decoration:underline; 
+ 	color: gray;
+ }
+ .link{
+ 	position: absolute;
+ 	top: 410px;
+ 	left:490px; 
+ }
+ .off{
+ 	position: absolute;
+ 	top: 470px;
+ 	left: 350px;
+ }
+ .an1{
+ 	position: absolute;
+ 	top: 450px;
+ 	left:490px;
+ }
+ .ln2{
+ 	position: absolute;
+ 	top: 450px;
+ 	left:530px;
+ }
+ .la3{
+ 	position: absolute;
+ 	top: 450px;
+ 	left:580px;
+ }
+ .n4{
+ 	position: absolute;
+ 	top: 450px;
+ 	left:640px;
+ }
+ .l5{
+ 	position: absolute;
+ 	top: 450px;
+ 	left:690px;
+ }
+ .e6{
+ 	position: absolute;
+ 	top: 450px;
+ 	left:740px;
+ }
+ .t7{
+ 	position: absolute;
+ 	top: 450px;
+ 	left:800px;
+ }
+ .o8{
+ 	position: absolute;
+ 	top: 450px;
+ 	left:854px;
+ }
+ .u9{
+ 	position: absolute;
+ 	top: 450px;
+ 	left:938px;
+ }
+ .under{
+ 	width: 99%;
+ 	position: absolute;
+ 	top: 480px;
+ 	text-align: right;
+ }
+.yo{
+	position: absolute;
+	top:500px;
+	left:20px;
+
+}
+.Ad{
+	position: absolute;
+	top: 520px;
+}
+.Bu{
+	position: absolute;
+	top: 520px;
+	left:90px;
+}
+.Abo{
+	position: absolute;
+	top: 520px;
+	left:150px;
+}
+.How{
+	position: absolute;
+	top:520px;
+	left: 200px;
+}
+.Pr{
+	position: absolute;
+	top: 520px;
+	left:1090px;
+}
+.Ter{
+	position: absolute;
+	top: 520px;
+	left: 1150px;
+}
+.set{
+	position: absolute;
+	top: 520px;
+	left: 1200px;
+}
+.button:hover{
+	border:1px solid blue;
+	position: absolute;
+	top: 200px;
+	height: 30px;
+}
